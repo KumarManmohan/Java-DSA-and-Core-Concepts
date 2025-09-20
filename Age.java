@@ -7,10 +7,10 @@ public class Age{
         
 
         if(age >= 18){
-            System.out.println("you are an an adult");
+            System.out.println("Welcome! You are an adult.");
         }
         else{
-            System.out.println("you are not an adult");
+            System.out.println("Sorry, you are not yet an adult.");
         }
 
 
